@@ -1,0 +1,6 @@
+This is a mysql/php application for making a web form to submit data with, but requiring the requestor to click a confirmation link in their email
+
+Installation
+------------
+1. install the db schema in dbdump/
+2. plop these files in a web directory and edit the db connection config
